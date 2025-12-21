@@ -14,3 +14,10 @@ A graph-based generalization of [Mordvintsev's et al.](https://distill.pub/2020/
   </div>
   <p><em>50 random samples for 2D (M) and 3D (pyramid) targets. Left: epoch 13500; Right: epoch 19000.</em></p>
 </div>
+
+## Installing Dependencies
+
+```bash
+$ conda env create -f environment.yml
+$ conda activate grow_gnca
+```
