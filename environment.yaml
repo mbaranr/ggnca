@@ -1,4 +1,4 @@
-name: gnca  
+name: grow_gnca  
 channels:
   - conda-forge  
   - pytorch
