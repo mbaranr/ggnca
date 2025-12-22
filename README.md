@@ -3,7 +3,7 @@
 A graph-based generalization of [Mordvintsev's et al. (2020)](https://distill.pub/2020/growing-ca/) neural cellular automata for differentiable morphogenesis.
 
 <div align="center">
-  <img src="notebooks/life.gif" width="400"/>
+  <img src="assets/life.gif" width="400"/>
 </div>
 
 ## Sample Pool
