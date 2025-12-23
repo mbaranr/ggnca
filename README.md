@@ -1,6 +1,6 @@
 # Graph Growing Neural Cellular Automata
 
-A graph-based generalization of [Mordvintsev's et al. (2020)](https://distill.pub/2020/growing-ca/) neural cellular automata for differentiable morphogenesis. Unlike graph neural cellular automata ([Grattarola et al., 2021](https://doi.org/10.48550/arXiv.2110.14237)), this approach models explicit growth rather than reorganization.
+A graph-based generalization of [Mordvintsev's et al. (2020)](https://distill.pub/2020/growing-ca/) neural cellular automata for differentiable single-cell morphogenesis. Unlike graph neural cellular automata ([Grattarola et al., 2021](https://doi.org/10.48550/arXiv.2110.14237)), this approach models explicit growth rather than reorganization.
 
 <div align="center">
   <img src="assets/life.gif" width="400"/>
